@@ -1,0 +1,6 @@
+1. Open Command Prompt. Windows + R -> type cmd
+2. Navigate to where you downloaded the jar. For example "cd downloads" to change directory to the download folder if you are in the directory above it.
+3. Run this to start the game: java -cp goingfar.jar game.GameMain
+4. S U R V I V E
+
+Send me any feedback as far as bugs or gameplay
