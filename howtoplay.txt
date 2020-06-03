@@ -1,6 +1,7 @@
-1. Open Command Prompt. Windows + R -> type cmd
-2. Navigate to where you downloaded the jar. For example "cd downloads" to change directory to the download folder if you are in the directory above it.
-3. Run this to start the game: java -cp goingfar.jar game.GameMain
-4. S U R V I V E
+1. Java must be installed on your pc
+2. double-click playGoingFar.bat
+3. S U R V I V E
 
 Send me any feedback as far as bugs or gameplay
+
+The sweet spot for difficulty is probably 1, 2-4 will be too difficult as your decisions won't carry much weight.
